@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Mineral fuels, oils, distillation products",
+    "icon": "🛢️",
+    "amount": 180.47,
+    "color": "#FF7668"
+  },
+  {
+    "name": "Vehicles other than railway, tramway",
+    "icon": "🚗",
+    "amount": 50.28,
+    "color": "#FFD6A5"
+  },
+  {
+    "name": "Machinery, nuclear reactors, boilers",
+    "icon": "⚙️",
+    "amount": 37.72,
+    "color": "#CDB4DB"
+  },
+  {
+    "name": "Pearls, precious stones, metals, coins",
+    "icon": "💎",
+    "amount": 22.34,
+    "color": "#BDE0FE"
+  },
+  {
+    "name": "Commodities not specified according to kind",
+    "icon": "❓",
+    "amount": 21.62,
+    "color": "#E5E5E5"
+  },
+  {
+    "name": "Wood and articles of wood, wood charcoal",
+    "icon": "🪵",
+    "amount": 19.74,
+    "color": "#DDBEA9"
+  },
+  {
+    "name": "Plastics",
+    "icon": "🥤",
+    "amount": 17.24,
+    "color": "#A0C4FF"
+  },
+  {
+    "name": "Electrical, electronic equipment",
+    "icon": "⚡",
+    "amount": 14.73,
+    "color": "#FFF1A8"
+  },
+  {
+    "name": "Aluminum",
+    "icon": "🔗",
+    "amount": 14.13,
+    "color": "#DEE2E6"
+  },
+  {
+    "name": "Fertilizers",
+    "icon": "🌱",
+    "amount": 13.72,
+    "color": "#C1E1C1"
+  },
+  {
+    "name": "Ores slag and ash",
+    "icon": "⛏️",
+    "amount": 11.58,
+    "color": "#CED4DA"
+  },
+  {
+    "name": "Iron and steel",
+    "icon": "🪨",
+    "amount": 11.19,
+    "color": "#ADB5BD"
+  },
+  {
+    "name": "Pharmaceutical products",
+    "icon": "💊",
+    "amount": 10.73,
+    "color": "#FFADAD"
+  },
+  {
+    "name": "Cereals",
+    "icon": "🌽",
+    "amount": 10.16,
+    "color": "#A3B18A"
+  },
+  {
+    "name": "Aircraft, spacecraft",
+    "icon": "✈️",
+    "amount": 10.15,
+    "color": "#BEE1E6"
+  },
+  {
+    "name": "Paper and paperboard, articles of pulp, paper and board",
+    "icon": "✉️",
+    "amount": 8.46,
+    "color": "#F1FAEE"
+  },
+  {
+    "name": "Optical, photo, technical, medical apparatus",
+    "icon": "📸",
+    "amount": 8.20,
+    "color": "#E0BBE4"
+  },
+  {
+    "name": "Oil seed, oleagic fruits, grain, seed, fruits",
+    "icon": "🍓",
+    "amount": 8.15,
+    "color": "#FFC8DD"
+  }
+]
